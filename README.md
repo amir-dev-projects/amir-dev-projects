@@ -1,16 +1,22 @@
-## Hi there 👋
+Hi, I'm Amir 👋
+I'm interested in building practical software applications that solve everyday problems.
 
-<!--
-**amir-dev-projects/amir-dev-projects** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I use my background in technology and project management to turn ideas into working products, exploring software development, automation, and AI along the way.
 
-Here are some ideas to get you started:
+🚀 Projects
+Convertly
+An Android application for unit conversions and calculations.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Clipboard
+A lightweight macOS clipboard manager designed to make managing copied text easier.
+
+Calendar Reminder Assistant
+An Android application that connects Google Calendar events with SMS reminders.
+
+🛠️ Areas of Interest
+  - Software and application development
+  - AI-assisted development and automation
+  - Android and macOS applications
+  - Technology, architecture and product development
+
+Building, learning, experimenting and improving — one project at a time.
