@@ -17,7 +17,7 @@ An Android application for unit conversions and everyday calculations.
 [View project](https://github.com/amir-dev-projects/convertly) · [Download APK](https://github.com/amir-dev-projects/convertly/releases/latest)
 
 
-Clipboard
+**[Clipboard](https://github.com/amir-dev-projects/Clipboard/blob/main/README.md)**
 
 A lightweight macOS clipboard manager designed to make managing copied text easier.
 
