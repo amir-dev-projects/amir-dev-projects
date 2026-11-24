@@ -5,6 +5,11 @@ I use my background in technology and project management to turn ideas into work
 
 🚀 Projects
 
+**[AI News Hub](https://github.com/amir-dev-projects/ai-news-hub/blob/main/README.md)**
+
+AI News Hub collects AI news from RSS feeds, organizes articles into categories and presents them in a single dashboard.
+
+
 **[tpm-intake-assistant](https://github.com/amir-dev-projects/tpm-intake-assistant/blob/main/README.md)**
 
 To assist TPM's during the request or requirement intake process.
