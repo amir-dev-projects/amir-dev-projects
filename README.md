@@ -15,6 +15,11 @@ AI News Hub collects AI news from RSS feeds, organizes articles into categories 
 To assist TPM's during the request or requirement intake process.
 
 
+**[Clock Learning](https://amir-dev-projects.github.io/clock-learning/)**
+
+An interactive tool to teach kids to read time on analog clocks.
+
+
 **[Convertly](https://github.com/amir-dev-projects/convertly)**
 
 An Android application for unit conversions and everyday calculations.
